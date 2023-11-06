@@ -43,5 +43,4 @@ https://google.com
 
 .. toctree::
 
-   usage
    api
