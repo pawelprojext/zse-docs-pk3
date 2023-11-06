@@ -16,7 +16,8 @@ listy
 
 #. 1
 #. 2
-.. note::
+
+note::
    to jest note.
 
 
