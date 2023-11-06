@@ -17,6 +17,7 @@ listy
 #. 1
 #. 2
 
+
 .. note::
    This is note text. Use a note for information you want the user to
    pay particular attention to.
