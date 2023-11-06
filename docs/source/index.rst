@@ -28,6 +28,9 @@ listy
 
 `Link <google.com>`_
 
-+-------+------+
-|kolumna 1 |kolumna 2 |
-+-------+-------+
+=====  =====
+     A    not A
+   =====  =====
+   False  True
+   True   False
+   =====  =====
