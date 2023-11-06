@@ -34,5 +34,5 @@ listy
 
 .. image:: path/filename.png
   :width: 400
-  :alt: Alternative text
+  :alt: Tu byłoby zdjęcie, ale nie mam
 
