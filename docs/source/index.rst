@@ -21,10 +21,6 @@ listy
    pay particular attention to.
    
 
-.. code-block:: language
-
-   code
-
-.. line-block:: language
+.. code-block:: HTML
 
    code
