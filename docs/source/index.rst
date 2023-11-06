@@ -23,6 +23,7 @@ listy
 
 .. tip::
    this is tip
+
 .. code-block:: HTML
 
    code
