@@ -41,6 +41,7 @@ https://google.com
   :width: 400
   :alt: Tu byłoby zdjęcie, ale nie mam
 
+
 .. toctree::
 
    spis
