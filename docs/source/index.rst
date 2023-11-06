@@ -17,7 +17,7 @@ listy
 #. 1
 #. 2
 
-note::
-   to jest note.
+note:: to jest note.
+   
 
 
