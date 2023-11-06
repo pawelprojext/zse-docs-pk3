@@ -29,6 +29,8 @@ listy
 
    code
 
+:code: `kod liniowy`
+
 `link do pliku w repo <sciezka do pliku>`_
 
 https://google.com
