@@ -43,4 +43,4 @@ https://google.com
 
 .. toctree::
 
-   api
+   spis
