@@ -20,8 +20,9 @@ listy
 .. note::
    This is note text. Use a note for information you want the user to
    pay particular attention to.
-   
 
+.. tip::
+   this is tip
 .. code-block:: HTML
 
    code
