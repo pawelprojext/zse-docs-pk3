@@ -27,7 +27,8 @@ listy
 
    code
 
-`Link <google.com>`_
+`link do pliku w repo <sciezka do pliku>`_
+https://docutils.sourceforge.io/ 
 
 +-------+------+
 |kolumna |kolumna |
