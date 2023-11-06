@@ -27,7 +27,7 @@ listy
 
    code
 
-`Link <google.com>`
+`Link <google.com>`_
 
 +-------+------+
 |kolumna |kolumna |
