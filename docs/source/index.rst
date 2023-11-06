@@ -34,7 +34,7 @@ listy
 https://google.com
 
 +-------+-------+
-|kolumna |kolumna |
+|tabela |tabela |
 +-------+-------+
 
 .. image:: ścieżka do pliku
