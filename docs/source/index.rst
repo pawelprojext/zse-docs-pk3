@@ -28,9 +28,11 @@ listy
 
 `Link <google.com>`_
 
-=====  =====
-     A    not A
-   =====  =====
-   False  True
-   True   False
-   =====  =====
++-------+------+
+|kolumna |kolumna |
++-------+-------+
+
+.. image:: path/filename.png
+  :width: 400
+  :alt: Alternative text
+
