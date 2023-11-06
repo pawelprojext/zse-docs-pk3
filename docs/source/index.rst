@@ -29,7 +29,7 @@ listy
 
 `link do pliku w repo <sciezka do pliku>`_
 
-https://docutils.sourceforge.io/ 
+https://google.com
 
 +-------+------+
 |kolumna |kolumna |
