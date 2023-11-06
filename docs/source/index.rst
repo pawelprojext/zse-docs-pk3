@@ -33,7 +33,7 @@ listy
 |kolumna |kolumna |
 +-------+-------+
 
-.. image:: docs/Zrzut ekranu 2023-05-10 193519.png
+.. image:: ./docs/Zrzut ekranu 2023-05-10 193519.png
   :width: 400
   :alt: Tu byłoby zdjęcie, ale nie mam
 
