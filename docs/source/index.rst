@@ -18,8 +18,7 @@ listy
 #. 2
 
 .. note::
-   This is note text. Use a note for information you want the user to
-   pay particular attention to.
+   this is note
 
 .. tip::
    this is tip
@@ -28,7 +27,7 @@ listy
 
    code
 
-`Link <google.com>`_
+`Link <google.com>`
 
 +-------+------+
 |kolumna |kolumna |
