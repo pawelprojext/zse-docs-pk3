@@ -25,4 +25,4 @@ listy
 
    code
 
-`Link text <google.com>`_
+`Link <google.com>`_
