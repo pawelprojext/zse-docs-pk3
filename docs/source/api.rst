@@ -1,7 +1,3 @@
-API
+Spis treści
 ===
 
-.. autosummary::
-   :toctree: generated
-
-   lumache
