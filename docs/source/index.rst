@@ -24,3 +24,7 @@ listy
 .. code-block:: language
 
    code
+
+.. line-block:: language
+
+   code
