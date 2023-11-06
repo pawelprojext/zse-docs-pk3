@@ -24,3 +24,5 @@ listy
 .. code-block:: HTML
 
    code
+
+`Link text <google.com>`_
